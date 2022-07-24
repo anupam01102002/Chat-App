@@ -1,6 +1,6 @@
 import React from "react";
 function Login(){
-    return <div>Register
+    return <div>Login
     </div>
 }
 export default Login;
